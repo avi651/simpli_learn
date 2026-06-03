@@ -1,8 +1,8 @@
 import hashlib
 import os
 
-USERS_TXT_PATH = os.path.expanduser("users.txt")
-TASKS_TXT_PATH = os.path.expanduser("tasks.txt")
+USERS_TXT_PATH = os.path.expanduser("project1/users.txt")
+TASKS_TXT_PATH = os.path.expanduser("project1/tasks.txt")
 
 
 # Register a new user

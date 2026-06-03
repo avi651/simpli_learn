@@ -5,7 +5,7 @@
             "name": "Run user_auth.py",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/user_auth.py",
+            "program": "${workspaceFolder}/project1/user_auth.py",
             "console": "integratedTerminal"
         }
     ]
